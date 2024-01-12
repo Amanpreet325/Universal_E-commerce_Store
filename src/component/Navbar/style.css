@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200&family=Roboto+Mono:wght@100&family=Roboto:wght@300&display=swap');
+.flex{
+    display: flex;
+    padding-top: 5px;
+    height: auto;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-left: 120px;
+
+    }
+   
+nav ul li{
+    display: flex;
+    padding: 0 12px;
+    list-style: none;
+    color: #fff;
+text-decoration: none;
+
+
+}
+nav ul li a{
+    font-size: 18px;
+    position: relative;
+    font-family: 'Manrope', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Mono', monospace;
+font-weight: bold;
+color: white;
+text-decoration: none;
+
+}
+nav ul li a::after{
+    content: '';
+    width: 0;
+   
+    height: 3px;
+    background: red;
+    position: absolute;
+    left: 0;
+    bottom: -6px;
+    transition: 0.5s;
+}
+
+nav ul li a:hover::after{
+    width: 100%;
+}
