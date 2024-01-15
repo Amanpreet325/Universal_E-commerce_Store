@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Universal_E-commerce_Store/static/css/main.c4132801.css",
-    "main.js": "/Universal_E-commerce_Store/static/js/main.8a3640a3.js",
+    "main.js": "/Universal_E-commerce_Store/static/js/main.930aa474.js",
     "static/js/787.8cf52469.chunk.js": "/Universal_E-commerce_Store/static/js/787.8cf52469.chunk.js",
     "static/media/download.jpg": "/Universal_E-commerce_Store/static/media/download.22196b855c5f7ebe2d0d.jpg",
     "static/media/welding.jpg": "/Universal_E-commerce_Store/static/media/welding.6bacf097b29a9f19f4fb.jpg",
@@ -21,11 +21,11 @@
     "static/media/fa-v4compatibility.woff2": "/Universal_E-commerce_Store/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/Universal_E-commerce_Store/index.html",
     "main.c4132801.css.map": "/Universal_E-commerce_Store/static/css/main.c4132801.css.map",
-    "main.8a3640a3.js.map": "/Universal_E-commerce_Store/static/js/main.8a3640a3.js.map",
+    "main.930aa474.js.map": "/Universal_E-commerce_Store/static/js/main.930aa474.js.map",
     "787.8cf52469.chunk.js.map": "/Universal_E-commerce_Store/static/js/787.8cf52469.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4132801.css",
-    "static/js/main.8a3640a3.js"
+    "static/js/main.930aa474.js"
   ]
 }
