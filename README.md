@@ -23,4 +23,4 @@ Easily manage and update content for a current and relevant website.
 Tech Stack:
 
 Frontend: React.js, Material-UI
-Backend: Commerce.js
+Backend: Commerce.js,Strpe.js
